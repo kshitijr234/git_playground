@@ -1,2 +1,2 @@
 Hello Git!
-Second line
+Learning Git workflow
